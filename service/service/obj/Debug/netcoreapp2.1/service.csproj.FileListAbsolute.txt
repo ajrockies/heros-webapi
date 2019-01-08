@@ -1,0 +1,14 @@
+c:\users\albin.j\source\repos\service\service\bin\Debug\netcoreapp2.1\service.deps.json
+c:\users\albin.j\source\repos\service\service\bin\Debug\netcoreapp2.1\service.runtimeconfig.json
+c:\users\albin.j\source\repos\service\service\bin\Debug\netcoreapp2.1\service.runtimeconfig.dev.json
+c:\users\albin.j\source\repos\service\service\bin\Debug\netcoreapp2.1\service.dll
+c:\users\albin.j\source\repos\service\service\bin\Debug\netcoreapp2.1\service.pdb
+c:\users\albin.j\source\repos\service\service\obj\Debug\netcoreapp2.1\service.csproj.CoreCompileInputs.cache
+c:\users\albin.j\source\repos\service\service\obj\Debug\netcoreapp2.1\service.RazorAssemblyInfo.cache
+c:\users\albin.j\source\repos\service\service\obj\Debug\netcoreapp2.1\service.RazorAssemblyInfo.cs
+c:\users\albin.j\source\repos\service\service\obj\Debug\netcoreapp2.1\service.AssemblyInfoInputs.cache
+c:\users\albin.j\source\repos\service\service\obj\Debug\netcoreapp2.1\service.AssemblyInfo.cs
+c:\users\albin.j\source\repos\service\service\obj\Debug\netcoreapp2.1\service.RazorTargetAssemblyInfo.cache
+c:\users\albin.j\source\repos\service\service\obj\Debug\netcoreapp2.1\service.dll
+c:\users\albin.j\source\repos\service\service\obj\Debug\netcoreapp2.1\service.pdb
+c:\users\albin.j\source\repos\service\service\obj\Debug\netcoreapp2.1\service.csprojResolveAssemblyReference.cache
